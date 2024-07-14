@@ -20,9 +20,13 @@ Accessibility: Ensure the website meets accessibility standards to accommodate a
 ## Key Features and Technologies:
 
 CSS BEM Model: Use the Block Element Modifier methodology for clean and maintainable CSS code.
+
 CSS Flexbox and Grid: Utilize Flexbox and Grid layout systems for responsive and flexible page layouts.
+
 Animations: Implement subtle and pleasant animations to enhance user experience without being intrusive.
+
 Gradients: Incorporate complex gradients to add depth and visual interest to the design.
+
 Media Queries: Develop perfectly placed media queries to ensure optimal display across various devices and screen sizes.
 
 ## Conclusion: 
